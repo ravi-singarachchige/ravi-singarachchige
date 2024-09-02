@@ -3,8 +3,11 @@
 Welcome to my GitHub profile! 🌟
 
 🎓 Software Engineering Student at the University of Calgary
+
 💻 Passionate about developing innovative software solutions, with experience in application development, machine learning, and hardware projects.
+
 🌱 Always eager to learn and contribute to open-source projects
+
 🚀 VP Internal @ Software and Electrical Students' Association @ UCalgary
 
 ## Connect with me
